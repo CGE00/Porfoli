@@ -1,3 +1,3 @@
 # Porfoli SMR (SMX)
 
-Trabajos realizado durante el Grado Medio SMR (SMX).
+Trabajos realizados durante el Grado Medio SMR (SMX).
